@@ -1,0 +1,23 @@
+{
+  "name": "swe",
+  "version": "1.0.0",
+  "description": "skill hexadec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "alexa",
+    "hexadex"
+  ],
+  "author": "HexaDec",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.4",
+    "ask-sdk": "^2.6.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "es6-promisify": "^6.0.1",
+    "source-map-loader": "^0.2.4"
+  }
+}
